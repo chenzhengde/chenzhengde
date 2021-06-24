@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felix Chen.
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning HTML CSS and JavaScript.
-- 💞️ I’m looking to collaborate on some coder who familiar with web development and editor.
+- 💞️ I’m looking to collaborate on some coder who familiar with web development.
 - 📫 How to reach me: felix.zdchen@163.com
 
 <!---
